@@ -3,7 +3,7 @@
 
 ### 👋 Hello there!  
 I’m **Nguyễn Đức Tín**, a passionate **Frontend Developer** dedicated to crafting beautiful and optimized user interfaces.  
-With a solid foundation in modern technologies, I’m always eager to learn and deliver high-quality digital experiences.  
+With a solid foundation in modern technologies, I’m always eager to learn and deliver high-quality digital experiences.  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
