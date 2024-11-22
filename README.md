@@ -1,6 +1,6 @@
 # 🌟 Nguyễn Đức Tín 🌟  
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 👋 Hello there!  
 I’m **Nguyễn Đức Tín**, a passionate **Frontend Developer** dedicated to crafting beautiful and optimized user interfaces.  
