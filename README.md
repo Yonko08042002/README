@@ -9,9 +9,10 @@ With a solid foundation in modern technologies, I’m always eager to learn and 
 
 ## 🔧 Skills  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" alt="Skills" /> ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" alt="Skills" /> 
 </div>
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ## 🌟 Goals  
